@@ -1,2 +1,2 @@
 # Machine-Learning
-ML (practice) - This is just a practice repo for Machine Learning.
+ML (practice) - It contains various ML concepts 
